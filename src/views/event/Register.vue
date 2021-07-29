@@ -1,9 +1,9 @@
 <template>
-  <p>Regstration form here</p>
+    <p>Regstration form here</p>
 </template>
 
 <script>
 export default {
-  props: ['event']
+    props: ['event'],
 }
 </script>
