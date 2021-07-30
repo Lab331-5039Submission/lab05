@@ -8,7 +8,7 @@ import EventLayout from '@/views/event/Layout.vue'
 import NotFound from '@/views/NotFound.vue'
 import NetWorkError from '@/views/NetworkError.vue'
 import NProgress from 'nprogress'
-import EventService from '@/service/EventService.js'
+import EventService from '@/services/EventService.js'
 import GStore from '@/store'
 
 const routes = [
